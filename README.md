@@ -15,3 +15,6 @@ Technologies Used:
 
 Frontend: HTML5, CSS3, Bootstrap 5, JavaScript
 Tools: VS Code, GitHub Pages for deployment
+
+![image](https://github.com/user-attachments/assets/c7abf22e-7919-4411-bd34-2bed354f3f18)
+
